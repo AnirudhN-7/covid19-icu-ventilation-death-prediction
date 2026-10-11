@@ -1,0 +1,10 @@
+selector,model,cv_auroc,test_auroc,best_params
+lasso,LGBM,0.6169082234663776,0.6166207529843893,"{'clf__learning_rate': 0.1, 'select__estimator__C': 0.1}"
+none,LGBM,0.6109791704292336,0.615702479338843,{'clf__learning_rate': 0.05}
+lasso,LR,0.6437077839985551,0.5998163452708907,"{'clf__C': 10.0, 'select__estimator__C': 1.0}"
+none,RF,0.6083985762446571,0.5979338842975206,{'clf__max_depth': None}
+gus,LR,0.6502278610559268,0.5971533516988063,"{'clf__C': 10.0, 'select__k': 20}"
+none,LR,0.6483473300824755,0.5958677685950413,{'clf__C': 10.0}
+lasso,RF,0.6165710974655348,0.5856749311294766,"{'clf__max_depth': 5, 'select__estimator__C': 0.1}"
+gus,RF,0.636890313647583,0.5760330578512397,"{'clf__max_depth': None, 'select__k': 10}"
+gus,LGBM,0.6148178917584733,0.5672176308539945,"{'clf__learning_rate': 0.05, 'select__k': 10}"
