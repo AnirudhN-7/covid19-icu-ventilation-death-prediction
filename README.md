@@ -3,7 +3,7 @@
 UE24CS352A – Machine Learning, Mini-Project
 
 **Team:** `Anirudh N - PES1UG24AM041`, `Aditya Shetty - PES1UG24AM018`
-**Section:** `<section>`
+**Section:** `AIML-A`
 **Assigned problem:** CT-based Patient Triage of COVID-19: Radiomics Prediction of ICU Admission, Mechanical Ventilation, and Death of Patients (reference: Zhan & Li, Stanford CS229, 2020)
 
 > Educational project. Not a medical device.
